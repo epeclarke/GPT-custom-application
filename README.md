@@ -31,6 +31,16 @@ The plugin should now be installed and enabled! You can start with a question li
 ### Cloudflare workers
 
 ### Code Sandbox
+{
+  "title": "GPT Application Settings",
+  "version": 1.0,
+  "releaseDate": "2014-06-25T00:00:00.000Z",
+  "demo": true,
+  "modules": {
+     "init": "URL 1",
+     "ganerate": "URL 2"
+  }
+}
 
 ### Replit
 
